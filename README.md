@@ -1,3 +1,3 @@
 # BazyDanych
-#Repozytorium na Bazy danych
+# Repozytorium na Bazy danych
 Sprawozdanie
